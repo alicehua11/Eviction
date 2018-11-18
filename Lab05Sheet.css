@@ -1,0 +1,28 @@
+body {
+	background-image: url(../img/uprise.jpg);
+	background-attachment: fixed;
+
+}
+h1, p, h2, h3, h4, h5, h6, figcaption {
+	font-family: monospace, sans-serif;
+	font-color: #3e64a0;
+	font-size: 50px;
+	padding: 25px;
+	text-transform: uppercase;
+}
+figcaption {
+	color: salmon;
+	font-size: 40px;
+}
+
+
+}
+a{
+	color:#e28636;
+}
+
+.container {
+	align-content: justify;
+	margin-top: : 10px;
+
+}
